@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning MERN Stack & Data Structures & Algorithms
+- 🌱 I’m currently learning and developing skills in coding world
 - 📫 How to reach me: rhparekh2003@gmail.com
 
 
