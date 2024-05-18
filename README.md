@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=raheelhparekh&color=grey)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C59D&background=E6F2FF00&random=false&width=435&lines=Computer+Science+Student;Learning+%26+Growing)](https://git.io/typing-svg)
 
 <!--
