@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning and developing skills in coding world
+- 🌱 I’m currently learning and developing skills in the coding world
 - 📫 How to reach me: rhparekh2003@gmail.com
-- 🔭 I’m currently working on Full Stack Development,Java, Javascript and SQL
+- 🔭 I’m currently working on Full Stack Development, Java, Javascript & SQL
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raheelhparekh&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
