@@ -11,14 +11,23 @@ Here are some ideas to get you started:
  
 - 👯 I’m looking to collaborate on ...
 
-- 💬 Ask me about ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 I’m currently working on Full Stack Development, Java, Javascript & SQL
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mongodb,tailwind,typescript,vscode,vercel,express,postman,java,mysql&perline=6)](https://skillicons.dev)
 -->
 - 🌱 I’m currently learning and developing skills in the coding world
 -  🤔 I’m looking for help with Data Structures & Algorithms
 - 📫 How to reach me: rhparekh2003@gmail.com
-- 🔭 I’m currently working on Full Stack Development, Java, Javascript & SQL
+- 💬 Ask me about Javascript, Node, Java, and Backend Development
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-inky.vercel.app?user=raheelhparekh&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,nextjs,nodejs,mongodb,tailwind,typescript,vscode,vercel,express,postman,java,mysql&perline=6" />
+  </a>
+</p>
 
