@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=raheelhparekh&color=grey)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C59D&background=E6F2FF00&random=false&width=435&lines=Computer+Science+Student;Learning+%26+Hustling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C59D&background=E6F2FF00&random=false&width=435&lines=Computer+Science+Student;Backend+Developer;Learning+%26+Hustling)](https://git.io/typing-svg)
 
 <!--
 **raheelhparekh/raheelhparekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
