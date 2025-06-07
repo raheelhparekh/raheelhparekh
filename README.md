@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and developing skills in the coding world
 -  🤔 I’m looking for help with Data Structures & Algorithms
 - 📫 How to reach me: rhparekh2003@gmail.com
-- 💬 Ask me about Javascript, Node, Java, and Backend Development
+- 💬 Ask me about Javascript, Node, Java, MERN, Databases and Backend Development
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-inky.vercel.app?user=raheelhparekh&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
