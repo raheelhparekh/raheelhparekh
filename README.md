@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 🔭 I’m currently working on Full Stack Development, Java, Javascript & SQL
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mongodb,tailwind,typescript,vscode,vercel,express,postman,java,mysql&perline=6)](https://skillicons.dev)
 -->
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -  🤔 I’m looking for help with Data Structures & Algorithms
 - 📫 How to reach me: rhparekh2003@gmail.com
 - 💬 Ask me about Javascript, Node, Java, MERN, Databases and Backend Development
+- ⚡ Fun fact: I write blogs at https://codewrhp.hashnode.dev/
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-inky.vercel.app?user=raheelhparekh&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
