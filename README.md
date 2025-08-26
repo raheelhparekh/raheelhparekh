@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mongodb,tailwind,typescript,vscode,vercel,express,postman,java,mysql&perline=6)](https://skillicons.dev)
 -->
 
+
+- 💬 Ask me about Javascript, MERN, Databases, Ai Agents, AI Workflows, RAG Pipelines, generative-AI
 - 📫 How to reach me: rhparekh2003@gmail.com
-- 💬 Ask me about Javascript, Node, Java, MERN, Databases and Backend Development
 - ⚡ Fun fact: I write blogs at https://codewrhp.hashnode.dev/
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-inky.vercel.app?user=raheelhparekh&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
