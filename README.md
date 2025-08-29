@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Javascript, MERN, Databases, Ai Agents, AI Workflows, RAG Pipelines, generative-AI
 - 📫 How to reach me: rhparekh2003@gmail.com
-- ⚡ Fun fact: I write blogs at https://codewrhp.hashnode.dev/
+- ⚡ Fun fact: I write blogs, articles at https://codewrhp.hashnode.dev/ & https://peerlist.io/codewrhp/articles
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-inky.vercel.app?user=raheelhparekh&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
